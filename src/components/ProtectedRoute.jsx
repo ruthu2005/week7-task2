@@ -33,3 +33,4 @@ export default function ProtectedRoute({ children }) {
   // Render children or nested route Outlet
   return children ? children : <Outlet />;
 }
+

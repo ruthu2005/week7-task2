@@ -328,3 +328,4 @@ app.listen(PORT, () => {
   console.log(`[AUTH BACKEND] Server running at http://localhost:${PORT}`);
   console.log(`[AUTH BACKEND] Pre-seeded demo user: demo@example.com / Password123!`);
 });
+
